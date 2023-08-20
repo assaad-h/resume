@@ -17,7 +17,7 @@ function MySkils(){
                                 <Card.Text>
                                     <ul style={{padding: '10px'}}>
                                         <li>Adept in VHDL, a Hardware Definition Language.</li>
-                                        <li>In depth knowledge of the fundamental SystemVerilog principles.</li>
+                                        <li>Acquainted with the fundamental SystemVerilog principles.</li>
                                         <li>Robust coding capabilities in C.</li>
                                         <li>Highly skilled in object-oriented programming using C++ and Java.</li>
                                         <li>Proficient in Python and Go programming languages.</li>
