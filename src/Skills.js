@@ -18,7 +18,7 @@ function MySkils(){
                                     <ul style={{padding: '10px'}}>
                                         <li>Highly skilled in object-oriented programming using C++ and Java.</li>
                                         <li>Robust coding capabilities in C.</li>
-                                        <li>Proficient in Python and Go programming languages.</li>
+                                        <li>Proficient in Python.</li>
                                         <li>Adept in VHDL, a Hardware Definition Language.</li>
                                         <li>Skilled in HTML/CSS and JavaScript.</li>
                                         <li>Knowledgeable in Yang, a Data Definition Language.</li>
