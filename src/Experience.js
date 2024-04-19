@@ -23,10 +23,11 @@ function MyExperience() {
                             <td>Cisco</td>
                             <td>
                                 <ul>
-                                    <li>Developed enhancements and fixes in the Forwarding Information Base (FIB) code for IOS XR Routers.</li>
-                                    <li>Integrated a crucial bug fix into production code for esteemed clients including Google, Verizon, and AT&T, adhering to rigorous quality standards.</li>
+                                    <li>Developed enhancements, features and fixes in the Forwarding Information Base (FIB) code for IOS XR Routers.</li>
+                                    <li>Integrated crucial bug fixes into production code for esteemed clients including Google, Microsoft, Verizon, and AT&T, adhering to rigorous quality standards.</li>
                                     <li>Worked on quality improvement items such as memory leaks and Valgrind reported errors, augmenting software robustness and performance benchmarks.</li>
                                     <li>Actively participated in FIB issue triages, displaying adeptness in collaborative problem-solving and efficient resolution strategies.</li>
+                                    <li>Completed training and conducted interviews for internship positions.</li>
                                     <li>Cultivated a deeper knowledge and understanding of networking.</li>
                                 </ul>
                             </td>
